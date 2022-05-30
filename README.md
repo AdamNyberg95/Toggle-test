@@ -6,7 +6,11 @@
 4. Kör npm i för att installera alla programmets dependencies
 5. Kör npm start för att köra programmet
 6. Öppna http://localhost:3000 i din webbläsare
-7. Finns två toggle funktioner, uppe i vänstra hörnet kan man välja mellan "light" och "dark" mode. Och under titeln kan man välja mellan kvaliteten på materialet.
+
+Det finns två toggle funktioner:
+
+1. Uppe i vänstra hörnet kan man välja mellan "light" och "dark" mode.
+2. Under titeln "Discgolf Sets" kan man välja mellan kvaliteten på materialet.
 
 ## Beskrivning av filer
 
