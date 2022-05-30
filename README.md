@@ -1,6 +1,6 @@
 # Instruktioner
 
-1. Öppna din Windows PowerShell/ Termnialen på mac
+1. Öppna terminalen på din dator
 2. Kör kommandot git clone https://github.com/AdamNyberg95/Toggle-test
 3. Gå in i Toggle-test mappen genom att köra kommandot cd Toggle-test
 4. Kör npm i för att installera alla programmets dependencies
@@ -11,6 +11,11 @@ Det finns två toggle funktioner:
 
 1. Uppe i vänstra hörnet kan man välja mellan "light" och "dark" mode.
 2. Under titeln "Discgolf Sets" kan man välja mellan kvaliteten på materialet.
+
+## Demo
+
+Länk till demoversion av appen:
+https://toggle-project.vercel.app/
 
 ## Beskrivning av filer
 

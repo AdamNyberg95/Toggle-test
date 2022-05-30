@@ -1,8 +1,8 @@
 html {
   background-image: var(--bg-image-color);
   background-size: cover;
-  overflow: hidden;
   font-family: "Ubuntu", sans-serif;
+  background-repeat: no-repeat;
 }
 
 .App {
