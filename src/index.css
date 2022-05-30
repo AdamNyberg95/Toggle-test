@@ -1,0 +1,37 @@
+:root {
+  --bg-color: rgba(0, 153, 255, 0.866);
+  --bg-image-color: url(../public/img/wallp3.jpg);
+  --bg-mode: #2b2b2b;
+
+  --card-bg-color: rgb(20, 18, 49);
+  --card-color: rgb(232, 133, 212);
+  --card-border-color: rgb(232, 133, 212);
+  --card-divider-color: rgb(232, 133, 212);
+  --card-hover: rgba(20, 18, 49, 0.92);
+
+  --button-bg-color: rgb(232, 133, 212);
+  --button-color-color: rgb(20, 18, 49);
+  --button-color-hover-color: rgb(232, 133, 212);
+  --button-bg-hover-color: rgb(20, 18, 49);
+  --button-border-color: rgb(232, 133, 212);
+
+  --toggle-button-bg: rgb(232, 133, 212);
+  --toggle-button-color: rgb(20, 18, 49);
+}
+
+[data-theme="dark"] {
+  --bg-color: #2b2b2b;
+  --bg-image-color: url(../public/img/wallp3.jpg);
+  --bg-mode: white;
+
+  --card-bg-color: #1d1d1d;
+  --card-color: rgba(255, 255, 255, 0.849);
+  --card-border-color: black;
+  --card-divider-color: rgba(187, 187, 187, 0.361);
+  --card-hover: #1d1d1df2;
+
+  --button-bg-color: #ffffff1b;
+  --button-color-color: rgb(255, 255, 255);
+  --button-color-hover-color: black;
+  --button-bg-hover-color: rgba(255, 255, 255, 0.849);
+}
