@@ -23,6 +23,8 @@ I mappen components finns de olika komponenterna som används i App.js. Mappen �
 
 index.css är filen som används för att bestämma de olika färgerna som avänds beroende på light/dark mode.
 
+Projektet struktureras upp i App.js
+
 ## Kontakt
 
 Om ni har några frågor kan ni alltid nå mig på adamnyberg95@gmail.com
