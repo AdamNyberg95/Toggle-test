@@ -1,37 +1,38 @@
 :root {
-  --bg-color: rgba(0, 153, 255, 0.866);
+  --bg-color: #fab8c6;
   --bg-image-color: url(../public/img/wallp3.jpg);
-  --bg-mode: #2b2b2b;
+  --bg-mode: #0f1330;
 
-  --card-bg-color: rgb(20, 18, 49);
-  --card-color: rgb(232, 133, 212);
-  --card-border-color: rgb(232, 133, 212);
-  --card-divider-color: rgb(232, 133, 212);
-  --card-hover: rgba(20, 18, 49, 0.92);
+  --card-bg-color: #fab8c6e7;
+  --card-color: #0f1330;
+  --card-border-color: #0f1330;
+  --card-divider-color: #0f1330;
+  --card-hover: #fab8c6;
 
-  --button-bg-color: rgb(232, 133, 212);
-  --button-color-color: rgb(20, 18, 49);
-  --button-color-hover-color: rgb(232, 133, 212);
-  --button-bg-hover-color: rgb(20, 18, 49);
-  --button-border-color: rgb(232, 133, 212);
+  --button-bg-color: #0f1330;
+  --button-color-color: #fab8c6;
+  --button-color-hover-color: #0f1330;
+  --button-bg-hover-color: #fab8c6;
+  --button-border-color: #0f1330;
 
-  --toggle-button-bg: rgb(232, 133, 212);
-  --toggle-button-color: rgb(20, 18, 49);
+  --toggle-button-bg: #fab8c6;
+  --toggle-button-color: #0f1330;
 }
 
 [data-theme="dark"] {
-  --bg-color: #2b2b2b;
+  --bg-color: rgba(0, 153, 255, 0.866);
   --bg-image-color: url(../public/img/wallp3.jpg);
-  --bg-mode: white;
+  --bg-mode: #0f1330;
 
-  --card-bg-color: #1d1d1d;
-  --card-color: rgba(255, 255, 255, 0.849);
-  --card-border-color: black;
-  --card-divider-color: rgba(187, 187, 187, 0.361);
-  --card-hover: #1d1d1df2;
+  --card-bg-color: #0f1330f1;
+  --card-color: #fab8c6;
+  --card-border-color: #fab8c6;
+  --card-divider-color: #fab8c6;
+  --card-hover: #0f1330;
 
-  --button-bg-color: #ffffff1b;
-  --button-color-color: rgb(255, 255, 255);
-  --button-color-hover-color: black;
-  --button-bg-hover-color: rgba(255, 255, 255, 0.849);
+  --button-bg-color: #fab8c6;
+  --button-color-color: #0f1330;
+  --button-color-hover-color: #fab8c6;
+  --button-bg-hover-color: #0f1330;
+  --button-border-color: #fab8c6;
 }

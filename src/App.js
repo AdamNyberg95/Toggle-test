@@ -18,18 +18,11 @@ function App() {
   return (
     <div className="App">
       <div className="DarkMode">
-        <p style={{ color: "var(--bg-mode)" }}> Choose mode </p>
+        <p> Choose mode </p>
         <DarkMode />
       </div>
       <div className="time">
-        <h1
-          style={{
-            fontSize: "50px",
-            color: "var(--bg-mode)",
-          }}
-        >
-          Discgolf Sets
-        </h1>
+        <h1 className="titel">Discgolf Sets</h1>
         <div
           style={{
             display: "flex",

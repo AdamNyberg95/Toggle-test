@@ -1,8 +1,8 @@
 html {
   background-image: var(--bg-image-color);
   background-size: cover;
-  height: 100%;
   overflow: hidden;
+  font-family: "Ubuntu", sans-serif;
 }
 
 .App {
@@ -17,6 +17,7 @@ html {
   flex-direction: column;
   justify-content: flex-start;
   align-items: flex-start;
+  color: var(--bg-mode);
 }
 .time {
   display: flex;
@@ -25,6 +26,10 @@ html {
   align-items: center;
   margin-bottom: 20px;
   margin-top: -60px;
+}
+.titel {
+  font-size: 50px;
+  color: var(--bg-mode);
 }
 .Cards {
   display: flex;
@@ -48,9 +53,13 @@ html {
     margin-top: -20px;
   }
   .Cards {
-    margin-top: -20px;
+    margin-top: -30px;
   }
   .time {
-    margin-top: -50px;
+    margin-top: -60px;
+  }
+  .titel {
+    font-size: 40px;
+    color: var(--bg-mode);
   }
 }
