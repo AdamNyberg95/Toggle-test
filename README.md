@@ -10,7 +10,7 @@
 Det finns två toggle funktioner:
 
 1. Uppe i vänstra hörnet kan man välja mellan "light" och "dark" mode.
-2. Under titeln "Discgolf Sets" kan man välja mellan kvaliteten på materialet.
+2. Under titeln "Discgolf Sets" kan man välja kvalitet på materialet.
 
 ## Demo
 
